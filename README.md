@@ -15,3 +15,7 @@ Here you have some of the main functionalities:
 - Translation files included.
 - Full Support.
 - Full Documentation.
+
+You can read the tutorial in this site https://wfcwp.jcr.solutions
+
+This application is not free. If you want to buy it, please go to code canyon. https://codecanyon.net
